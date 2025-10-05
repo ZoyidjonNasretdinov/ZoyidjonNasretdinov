@@ -1,4 +1,4 @@
-<h2 align="center">👨‍🏫 About Me</h2>
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/50ae086a-d18e-4822-a2b8-72b70d9065b9" />
 
 ###
 
