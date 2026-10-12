@@ -1,82 +1,116 @@
-<div align="center">
+ <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
-  <img src="assets/dark.svg" alt="Profile header banner" width="100%">
-</picture>
+# 👋 Hi, I'm Zoyidjon Nasretdinov
 
-<br/>
+### Full Stack Developer · AI Developer · Software Engineer
 
-<img src="https://img.shields.io/badge/status-open%20to%20work-10B981?style=for-the-badge&labelColor=0F172A" alt="status"/>
-<img src="https://img.shields.io/badge/based%20in-Earth-7C3AED?style=for-the-badge&labelColor=0F172A" alt="location"/>
-<img src="https://img.shields.io/badge/focus-frontend%20%2F%20full--stack-22D3EE?style=for-the-badge&labelColor=0F172A" alt="focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Full+Stack+Web+Developer;Mobile+App+Developer;Turning+Ideas+Into+Products" alt="Animated typing introduction" />
+
+<p>
+  <a href="https://github.com/ZoyidjonNasretdinov">
+    <img src="https://img.shields.io/github/followers/ZoyidjonNasretdinov?style=for-the-badge&logo=github&label=Followers&color=58A6FF" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/ZoyidjonNasretdinov?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-238636?style=for-the-badge&logo=github" alt="Repositories" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:1F6FEB&height=3" width="100%" alt="" />
 
 </div>
 
-<br/>
+## 🚀 About Me
 
-## 👋 About Me
+I'm a developer passionate about building scalable applications, modern user experiences, mobile products, and AI-powered solutions.
 
-I'm a developer who cares about clean interfaces, fast software, and code that's a
-pleasure to read six months later. I like turning ambitious design ideas into things
-that actually ship.
-
-- 🔭 Currently building polished, production-grade web products
-- 🌱 Learning something new in the frontend/AI space every quarter
-- 🤝 Open to collaborating on open-source tooling and design systems
-- ⚡ Fun fact: this README's header is a single hand-authored SVG with zero JavaScript
-
-<br/>
+- 💻 Building full-stack web applications and mobile apps.
+- 🤖 Exploring Artificial Intelligence and AI-powered automation.
+- 🌐 Working with modern frontend and backend technologies.
+- 📱 Developing cross-platform mobile applications.
+- 🎯 Focused on practical projects, clean architecture, and continuous learning.
 
 ## 🛠️ Tech Stack
 
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi,mongodb,postgres,redis" alt="Backend technologies" />
+</p>
+
+### Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,reactnative" alt="Mobile technologies" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,postman,linux,vscode" alt="Development tools" />
+</p>
+
+## 📊 GitHub Statistics
+
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ZoyidjonNasretdinov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub statistics" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoyidjonNasretdinov&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
 
 </div>
 
-<br/>
-
-## 📊 GitHub Stats
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="42%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=ZoyidjonNasretdinov&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="90%" />
 
 </div>
 
-<br/>
-
-## 🌐 Connect With Me
+## 📈 Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://yourdomain.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZoyidjonNasretdinov&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
 
 </div>
 
-<br/>
+## 🏆 GitHub Achievements
 
 <div align="center">
-<sub>Thanks for stopping by — ⭐️ a repo if something here was useful to you.</sub>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ZoyidjonNasretdinov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" width="100%" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ZoyidjonNasretdinov/ZoyidjonNasretdinov/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
+
+</div>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ZoyidjonNasretdinov">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/zoyidjon-nasretdinov/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/zoyidjon_me">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+<div align="center">
+
+### 💡 Build. Learn. Innovate.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer" width="100%" alt="" />
+
 </div>
